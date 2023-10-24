@@ -1,0 +1,3 @@
+path_to_dataset: "D:\\projects_andrey\\ru_code_contest\\new_format_dataset"
+test_size: 0.3
+name_file: "train.csv"

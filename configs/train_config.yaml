@@ -1,0 +1,12 @@
+train_params:
+  epochs: 100
+  lr: 0.00003
+  batch_size: 1024
+  num_workers: 4
+  img_size: [224, 224]
+  path_save_checkpoint: "../models/"
+  path_to_classes: "D:\\projects_andrey\\ru_code_contest\\new_format_dataset\\encode_classes.json"
+  name_model: 'resnet101'
+  pretrained: True
+  path_to_weights: ""
+  path_to_dataset: "D:\\projects_andrey\\ru_code_contest\\new_format_dataset"

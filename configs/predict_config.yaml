@@ -1,0 +1,9 @@
+path_to_save_images: '../results/results_predict'
+path_to_save_result: '../results'
+path_to_dataset: "D:\\projects_andrey\\ru_code_contest\\new_format_dataset"
+path_to_classes: "D:\\projects_andrey\\ru_code_contest\\new_format_dataset\\encode_classes.json"
+name_model: 'swin_large_patch4_window12_384_in22k'
+pretrained: False
+visualize_result: True
+path_to_weights: "D:\\projects_andrey\\cv_contest_made\\src\\runs\\Aug28_20-18-52_LAI-02\\models\\checkpoint_swin_large_patch4_window12_384_in22k.pth"
+img_size: [384, 384]

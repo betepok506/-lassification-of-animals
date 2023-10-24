@@ -1,0 +1,12 @@
+timm
+marshmallow_dataclass
+pyaml
+click
+Faker
+hydra-core
+pandas
+opencv-python
+scikit-learn
+tensorboard
+albumentations
+mmcv
